@@ -10,10 +10,6 @@ Client side puzzle with mini-tasks leading to a final prize
 
 
 
-
-## Useful Links
-
-
 ## Clues and Answers
 * **Clue 1:** Find the odd one out
   * **Solution:** There is a rhino in between all the elephants. Double click on the rhino to proceed.

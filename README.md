@@ -25,7 +25,7 @@ Client side puzzle with mini-tasks leading to a final prize
   * **Solution:** middle image
 * **Clue 5:** FIND NUMBER OF STEPS TAKEN TO REACH DESTINATION
 
-  * **Solution:** 25 (FIND NUMBER OF STEPS TAKEN TO REACH DESTINATION)
+  * **Solution:** 25 (EACH TURN COUNTS AS SINGLE STEP)
 
 The source code of this project is written in **HTML/CSS/JS/PHP/FLASK**.
 

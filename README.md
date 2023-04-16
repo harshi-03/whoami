@@ -4,7 +4,6 @@ Client side puzzle with mini-tasks leading to a final prize
 
 <p align="center">
 
-<img src="assets/img/favicon.png" width="120px" alt="WHO AM I Logo"/>
 </a>
 </p>
 
@@ -14,8 +13,6 @@ Client side puzzle with mini-tasks leading to a final prize
 
 ## Useful Links
 
-- [Actual Website]
-- 
 
 ## Clues and Answers
 * **Clue 1:** Find the odd one out

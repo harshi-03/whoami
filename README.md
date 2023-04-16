@@ -3,10 +3,12 @@
 Client side puzzle with mini-tasks leading to a final prize 
 
 <p align="center">
-
+PLOT OF THE GAME
 </a>
 </p>
+START BY REGISTERING AND THEN LOGIN TO YOUR ACCOUNT TO START THE GAME.THE GAME IS ABOUT A SURVIVOR STUCK IN A LONELY ISLAND WHERE HE LOST HIS MEMORY.BY SOLVING TINY BRAIN TEASING RIDDLES HE REACHES THE FINAL TREASURE WHICH REVEALS HIS IDENTITY.
 
+SPOILERS AHEAD....(TRY SOLVING THE PUZZLES ON YOUR OWN AS THEY ARE OF BASIC SOFTSKILL ASSESSING LEVEL)
 
 
 
@@ -23,7 +25,7 @@ Client side puzzle with mini-tasks leading to a final prize
 
   * **Solution:** 25 (EACH TURN COUNTS AS SINGLE STEP)
 
-The source code of this project is written in **HTML/CSS/JS/PHP/FLASK**.
+The source code of this project is written in **HTML/CSS/JS/PHP/PY-FLASK**.
 
 
 

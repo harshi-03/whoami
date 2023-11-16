@@ -30,10 +30,7 @@ The source code of this project is written in **HTML/CSS/JS/PHP/PY-FLASK**.
 
 
 
-## Need help?
 
-
-Feel free to contact me via [EMAIL]: sreeharshitha29@gmail.com
 
 
 
